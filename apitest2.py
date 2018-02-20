@@ -3,8 +3,8 @@ import json
 import time
 
 
-READ_API_KEY='PW3KP1EUN4Y8GI0X' #Hier den read api key hineinfügen
-CHANNEL_ID='427711'  #Hier die Channel Id einfügen
+READ_API_KEY='...' #Hier den read api key hineinfügen
+CHANNEL_ID='...'  #Hier die Channel Id einfügen
 
 
 while True: #Schleifen beginn
@@ -23,4 +23,3 @@ while True: #Schleifen beginn
 
     TS.close() #Hier wird der Loop also die Schleife geschlossen.
 
-#https://api.thingspeak.com/channels/427711/feeds.json?api_key=PW3KP1EUN4Y8GI0X
